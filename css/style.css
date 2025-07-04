@@ -1,0 +1,66 @@
+h1{
+    font-family: "Roboto", sans-serif;
+    font-size: 56px;
+    letter-spacing: 2%;
+    line-height: 3.75;
+    font-weight: 700;
+}
+h2{
+    font-family: "Roboto", sans-serif;
+    font-size: 36px;
+    letter-spacing: 2%;
+    font-weight: 700;
+    line-height: 2.5;
+}
+h3{
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    letter-spacing: 2%;
+    font-weight: 500;
+    line-height: 1.5;
+}
+.body{
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+    font-weight: 400;
+}
+.smallText{
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+    line-height: 0.8;
+    letter-spacing: 4%;
+    font-weight: 400;
+}
+.bodyMedium{
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+    font-weight: 500;
+}
+button{
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 4%;
+    font-weight: 500;
+    cursor: pointer;
+}
+.linkText{
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+    line-height: 1;
+    letter-spacing: 4%;
+    text-decoration: underline;
+    font-weight: 400;
+}
+
+body{
+    font-family: "Roboto", sans-serif;
+    color: #2E2F42;
+}
+ul{
+    list-style-type: none;
+}
