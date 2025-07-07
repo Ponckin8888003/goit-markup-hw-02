@@ -118,7 +118,7 @@ header ul li a:focus{
     background-color: #404BBF;
 }
 .section_title_01{
-    opacity: 0;
+    visibility: hidden;
     line-height: 1.2;
 }
 .section_02{
