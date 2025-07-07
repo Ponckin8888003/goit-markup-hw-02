@@ -11,7 +11,7 @@ h2{
     letter-spacing: 0.02em;
     font-weight: 700;
 }
-h3{
+.list_title{ /*h3*/
     font-family: "Roboto", sans-serif;
     font-size: 20px;
     letter-spacing: 0.02em;
@@ -72,6 +72,11 @@ ul{
 a{
     text-decoration: none;
 }
+.section_title{
+    line-height: 1.11;
+    text-align: center;
+    text-transform: capitalize
+}
 
 .logo{
     font-family: "Raleway", sans-serif;
@@ -91,52 +96,37 @@ header ul li a:hover{
 header ul li a:focus{
     color: #404bbf;
 }
-address a{
+.contacts a{
     color: #434455;
 }
-.heroImageSection{
+.hero_image_section{
     background-color: #2E2F42;
 }
-.heroImageSection h1{
+.hero_title{
     color: #FFFFFF;
-    line-height: 1.17;
+    line-height: 1.07;
 }
-.heroImageSection button{
+.hero_button{
     background-color: #4D5AE5;
     border: none;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 15%);
-    width: 169px;
-    height: 56px;
     color: #FFFFFF;
 }
-.heroImageSection button:hover{
+.hero_button:hover{
     background-color: #404BBF;
 }
-.heroImageSection button:focus{
+.hero_button:focus{
     background-color: #404BBF;
 }
-.heroImageSection h1{
-    line-height: 1.07;
-}
-.section_01 h2{
+.section_title_01{
     display: none;
     line-height: 1.2;
 }
 .section_02{
     background-color: #F4F4FD;
 }
-.section_02 h2{
-    line-height: 1.11; 
-    text-align: center;
-}
-.teamSection li{
+.team_card{
     background-color: #FFFFFF;
-    box-shadow: 0px 1px 6px 0px rgba(46, 47, 66, 8%), 0px 1px 1px 0px rgba(46, 47, 66, 16%), 0px 2px 1px 0px rgba(46, 47, 66, 8%);
-}
-.our_portfolio h2{
-    line-height: 1.11;
-    text-align: center;
-    text-transform: capitalize
 }
 .our_portfolio ul li{
     border: 1px solid #E7E9FC;
