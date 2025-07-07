@@ -109,7 +109,6 @@ header ul li a:focus{
 .hero_button{
     background-color: #4D5AE5;
     border: none;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 15%);
     color: #FFFFFF;
 }
 .hero_button:hover{
@@ -119,7 +118,7 @@ header ul li a:focus{
     background-color: #404BBF;
 }
 .section_title_01{
-    display: none;
+    opacity: 0;
     line-height: 1.2;
 }
 .section_02{
@@ -132,9 +131,9 @@ header ul li a:focus{
     border: 1px solid #E7E9FC;
     border-top: none;
 }
-footer{
+.footer{
     background-color: #2E2F42;
 }
-footer .body, footer a{
+.footer .body{
     color: #F4F4FD;
 }
