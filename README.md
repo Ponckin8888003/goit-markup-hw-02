@@ -1,2 +1,2 @@
 # goit-markup-hw-02
-The first HomeWork - 02
+The second HomeWork - 02
